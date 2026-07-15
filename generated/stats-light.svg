@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="366" viewBox="0 0 880 366" role="img">
 <title>Stats for tanabooo</title>
 <rect x="0.5" y="0.5" width="879" height="365" rx="14" fill="#ffffff" stroke="#e4e4e8"/>
-<text x="44.0" y="76" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="34" fill="#0f0f12" font-weight="700">1,833</text>
+<text x="44.0" y="76" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="34" fill="#0f0f12" font-weight="700">1,830</text>
 <text x="44.0" y="96" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#0f0f12" font-weight="600">Commits</text>
 <text x="44.0" y="112" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" fill="#6e6e78" font-weight="400">authored, all repositories</text>
 <rect x="220.0" y="40" width="1" height="62" fill="#e4e4e8"/>
-<text x="242.0" y="76" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="34" fill="#0f0f12" font-weight="700">1,306</text>
+<text x="242.0" y="76" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="34" fill="#0f0f12" font-weight="700">1,307</text>
 <text x="242.0" y="96" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#0f0f12" font-weight="600">Contributions</text>
 <text x="242.0" y="112" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" fill="#6e6e78" font-weight="400">past 12 months</text>
 <rect x="418.0" y="40" width="1" height="62" fill="#e4e4e8"/>
@@ -13,7 +13,7 @@
 <text x="440.0" y="96" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#0f0f12" font-weight="600">Longest streak</text>
 <text x="440.0" y="112" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" fill="#6e6e78" font-weight="400">consecutive days</text>
 <rect x="616.0" y="40" width="1" height="62" fill="#e4e4e8"/>
-<text x="638.0" y="76" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="34" fill="#0f0f12" font-weight="700">20</text>
+<text x="638.0" y="76" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="34" fill="#0f0f12" font-weight="700">18</text>
 <text x="638.0" y="96" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#0f0f12" font-weight="600">Repositories</text>
 <text x="638.0" y="112" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" fill="#6e6e78" font-weight="400">owned, excluding forks</text>
 <rect x="44" y="140" width="792" height="1" fill="#e4e4e8"/>
@@ -21,26 +21,26 @@
 <text x="836" y="168" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" fill="#6e6e78" font-weight="400" text-anchor="end">private repositories included</text>
 <text x="132" y="201" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#0f0f12" font-weight="600" text-anchor="end">TypeScript</text>
 <rect x="146" y="190" width="626" height="14" rx="2" fill="#ebebee"/>
-<path d="M146.00 190 H671.29 A4.00 4.00 0 0 1 675.29 194.00 V200.00 A4.00 4.00 0 0 1 671.29 204 H146.00 Z" fill="#ef4a5d"/>
-<text x="836" y="201" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0f0f12" font-weight="600" text-anchor="end" style="font-variant-numeric:tabular-nums">84.6%</text>
+<path d="M146.00 190 H677.15 A4.00 4.00 0 0 1 681.15 194.00 V200.00 A4.00 4.00 0 0 1 677.15 204 H146.00 Z" fill="#ef4a5d"/>
+<text x="836" y="201" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0f0f12" font-weight="600" text-anchor="end" style="font-variant-numeric:tabular-nums">85.5%</text>
 <text x="132" y="227" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#6e6e78" font-weight="400" text-anchor="end">JavaScript</text>
 <rect x="146" y="216" width="626" height="14" rx="2" fill="#ebebee"/>
-<path d="M146.00 216 H173.92 A4.00 4.00 0 0 1 177.92 220.00 V226.00 A4.00 4.00 0 0 1 173.92 230 H146.00 Z" fill="#8e8e96"/>
-<text x="836" y="227" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#6e6e78" font-weight="400" text-anchor="end" style="font-variant-numeric:tabular-nums">5.1%</text>
+<path d="M146.00 216 H174.27 A4.00 4.00 0 0 1 178.27 220.00 V226.00 A4.00 4.00 0 0 1 174.27 230 H146.00 Z" fill="#8e8e96"/>
+<text x="836" y="227" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#6e6e78" font-weight="400" text-anchor="end" style="font-variant-numeric:tabular-nums">5.2%</text>
 <text x="132" y="253" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#6e6e78" font-weight="400" text-anchor="end">Astro</text>
 <rect x="146" y="242" width="626" height="14" rx="2" fill="#ebebee"/>
-<path d="M146.00 242 H162.72 A4.00 4.00 0 0 1 166.72 246.00 V252.00 A4.00 4.00 0 0 1 162.72 256 H146.00 Z" fill="#7d7d85"/>
+<path d="M146.00 242 H162.95 A4.00 4.00 0 0 1 166.95 246.00 V252.00 A4.00 4.00 0 0 1 162.95 256 H146.00 Z" fill="#7d7d85"/>
 <text x="836" y="253" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#6e6e78" font-weight="400" text-anchor="end" style="font-variant-numeric:tabular-nums">3.3%</text>
 <text x="132" y="279" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#6e6e78" font-weight="400" text-anchor="end">HTML</text>
 <rect x="146" y="268" width="626" height="14" rx="2" fill="#ebebee"/>
-<path d="M146.00 268 H154.27 A4.00 4.00 0 0 1 158.27 272.00 V278.00 A4.00 4.00 0 0 1 154.27 282 H146.00 Z" fill="#6e6e76"/>
+<path d="M146.00 268 H154.40 A4.00 4.00 0 0 1 158.40 272.00 V278.00 A4.00 4.00 0 0 1 154.40 282 H146.00 Z" fill="#6e6e76"/>
 <text x="836" y="279" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#6e6e78" font-weight="400" text-anchor="end" style="font-variant-numeric:tabular-nums">2.0%</text>
 <text x="132" y="305" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#6e6e78" font-weight="400" text-anchor="end">PLpgSQL</text>
 <rect x="146" y="294" width="626" height="14" rx="2" fill="#ebebee"/>
-<path d="M146.00 294 H153.93 A4.00 4.00 0 0 1 157.93 298.00 V304.00 A4.00 4.00 0 0 1 153.93 308 H146.00 Z" fill="#5f5f67"/>
+<path d="M146.00 294 H154.06 A4.00 4.00 0 0 1 158.06 298.00 V304.00 A4.00 4.00 0 0 1 154.06 308 H146.00 Z" fill="#5f5f67"/>
 <text x="836" y="305" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#6e6e78" font-weight="400" text-anchor="end" style="font-variant-numeric:tabular-nums">1.9%</text>
 <text x="132" y="331" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#6e6e78" font-weight="400" text-anchor="end">Other</text>
 <rect x="146" y="320" width="626" height="14" rx="2" fill="#ebebee"/>
-<path d="M146.00 320 H161.88 A4.00 4.00 0 0 1 165.88 324.00 V330.00 A4.00 4.00 0 0 1 161.88 334 H146.00 Z" fill="#525259"/>
-<text x="836" y="331" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#6e6e78" font-weight="400" text-anchor="end" style="font-variant-numeric:tabular-nums">3.2%</text>
+<path d="M146.00 320 H155.17 A4.00 4.00 0 0 1 159.17 324.00 V330.00 A4.00 4.00 0 0 1 155.17 334 H146.00 Z" fill="#525259"/>
+<text x="836" y="331" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#6e6e78" font-weight="400" text-anchor="end" style="font-variant-numeric:tabular-nums">2.1%</text>
 </svg>
