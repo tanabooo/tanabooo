@@ -32,3 +32,8 @@ aggregated, naming nothing.
   <img alt="Contributions per month across the past year" src="./generated/months-light.svg">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./generated/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./generated/snake-light.svg">
+  <img alt="A snake eating the contribution grid" src="./generated/snake-light.svg">
+</picture>
