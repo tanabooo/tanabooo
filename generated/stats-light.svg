@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="392" viewBox="0 0 880 392" role="img">
 <title>Stats for tanabooo</title>
 <rect x="0.5" y="0.5" width="879" height="391" rx="14" fill="#ffffff" stroke="#e4e4e8"/>
-<text x="44.0" y="76" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="34" fill="#0f0f12" font-weight="700">2,198</text>
+<text x="44.0" y="76" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="34" fill="#0f0f12" font-weight="700">2,202</text>
 <text x="44.0" y="96" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#0f0f12" font-weight="600">Commits</text>
 <text x="44.0" y="112" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" fill="#6e6e78" font-weight="400">authored, all repositories</text>
 <rect x="220.0" y="40" width="1" height="62" fill="#e4e4e8"/>
-<text x="242.0" y="76" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="34" fill="#0f0f12" font-weight="700">1,675</text>
+<text x="242.0" y="76" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="34" fill="#0f0f12" font-weight="700">1,684</text>
 <text x="242.0" y="96" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#0f0f12" font-weight="600">Contributions</text>
 <text x="242.0" y="112" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" fill="#6e6e78" font-weight="400">past 12 months</text>
 <rect x="418.0" y="40" width="1" height="62" fill="#e4e4e8"/>
@@ -21,30 +21,30 @@
 <text x="836" y="168" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" fill="#6e6e78" font-weight="400" text-anchor="end">private repositories included</text>
 <text x="132" y="201" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#0f0f12" font-weight="600" text-anchor="end">TypeScript</text>
 <rect x="146" y="190" width="626" height="14" rx="2" fill="#ebebee"/>
-<path d="M146.00 190 H653.55 A4.00 4.00 0 0 1 657.55 194.00 V200.00 A4.00 4.00 0 0 1 653.55 204 H146.00 Z" fill="#ef4a5d"/>
-<text x="836" y="201" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0f0f12" font-weight="600" text-anchor="end" style="font-variant-numeric:tabular-nums">81.7%</text>
+<path d="M146.00 190 H653.88 A4.00 4.00 0 0 1 657.88 194.00 V200.00 A4.00 4.00 0 0 1 653.88 204 H146.00 Z" fill="#ef4a5d"/>
+<text x="836" y="201" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0f0f12" font-weight="600" text-anchor="end" style="font-variant-numeric:tabular-nums">81.8%</text>
 <text x="132" y="227" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#6e6e78" font-weight="400" text-anchor="end">Go</text>
 <rect x="146" y="216" width="626" height="14" rx="2" fill="#ebebee"/>
-<path d="M146.00 216 H193.90 A4.00 4.00 0 0 1 197.90 220.00 V226.00 A4.00 4.00 0 0 1 193.90 230 H146.00 Z" fill="#7d7d85"/>
-<text x="836" y="227" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#6e6e78" font-weight="400" text-anchor="end" style="font-variant-numeric:tabular-nums">8.3%</text>
+<path d="M146.00 216 H193.51 A4.00 4.00 0 0 1 197.51 220.00 V226.00 A4.00 4.00 0 0 1 193.51 230 H146.00 Z" fill="#7d7d85"/>
+<text x="836" y="227" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#6e6e78" font-weight="400" text-anchor="end" style="font-variant-numeric:tabular-nums">8.2%</text>
 <text x="132" y="253" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#6e6e78" font-weight="400" text-anchor="end">JavaScript</text>
 <rect x="146" y="242" width="626" height="14" rx="2" fill="#ebebee"/>
-<path d="M146.00 242 H162.79 A4.00 4.00 0 0 1 166.79 246.00 V252.00 A4.00 4.00 0 0 1 162.79 256 H146.00 Z" fill="#7d7d85"/>
+<path d="M146.00 242 H162.63 A4.00 4.00 0 0 1 166.63 246.00 V252.00 A4.00 4.00 0 0 1 162.63 256 H146.00 Z" fill="#7d7d85"/>
 <text x="836" y="253" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#6e6e78" font-weight="400" text-anchor="end" style="font-variant-numeric:tabular-nums">3.3%</text>
 <text x="132" y="279" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#6e6e78" font-weight="400" text-anchor="end">Astro</text>
 <rect x="146" y="268" width="626" height="14" rx="2" fill="#ebebee"/>
-<path d="M146.00 268 H158.45 A4.00 4.00 0 0 1 162.45 272.00 V278.00 A4.00 4.00 0 0 1 158.45 282 H146.00 Z" fill="#7d7d85"/>
+<path d="M146.00 268 H158.32 A4.00 4.00 0 0 1 162.32 272.00 V278.00 A4.00 4.00 0 0 1 158.32 282 H146.00 Z" fill="#7d7d85"/>
 <text x="836" y="279" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#6e6e78" font-weight="400" text-anchor="end" style="font-variant-numeric:tabular-nums">2.6%</text>
 <text x="132" y="305" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#6e6e78" font-weight="400" text-anchor="end">PLpgSQL</text>
 <rect x="146" y="294" width="626" height="14" rx="2" fill="#ebebee"/>
-<path d="M146.00 294 H152.42 A4.00 4.00 0 0 1 156.42 298.00 V304.00 A4.00 4.00 0 0 1 152.42 308 H146.00 Z" fill="#7d7d85"/>
+<path d="M146.00 294 H152.88 A4.00 4.00 0 0 1 156.88 298.00 V304.00 A4.00 4.00 0 0 1 152.88 308 H146.00 Z" fill="#7d7d85"/>
 <text x="836" y="305" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#6e6e78" font-weight="400" text-anchor="end" style="font-variant-numeric:tabular-nums">1.7%</text>
 <text x="132" y="331" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#6e6e78" font-weight="400" text-anchor="end">HTML</text>
 <rect x="146" y="320" width="626" height="14" rx="2" fill="#ebebee"/>
-<path d="M146.00 320 H151.74 A4.00 4.00 0 0 1 155.74 324.00 V330.00 A4.00 4.00 0 0 1 151.74 334 H146.00 Z" fill="#7d7d85"/>
-<text x="836" y="331" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#6e6e78" font-weight="400" text-anchor="end" style="font-variant-numeric:tabular-nums">1.6%</text>
+<path d="M146.00 320 H151.66 A4.00 4.00 0 0 1 155.66 324.00 V330.00 A4.00 4.00 0 0 1 151.66 334 H146.00 Z" fill="#7d7d85"/>
+<text x="836" y="331" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#6e6e78" font-weight="400" text-anchor="end" style="font-variant-numeric:tabular-nums">1.5%</text>
 <text x="132" y="357" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#6e6e78" font-weight="400" text-anchor="end">Other</text>
 <rect x="146" y="346" width="626" height="14" rx="2" fill="#ebebee"/>
-<path d="M146.00 346 H148.57 A2.57 2.57 0 0 1 151.15 348.57 V357.43 A2.57 2.57 0 0 1 148.57 360 H146.00 Z" fill="#7d7d85"/>
+<path d="M146.00 346 H148.55 A2.55 2.55 0 0 1 151.11 348.55 V357.45 A2.55 2.55 0 0 1 148.55 360 H146.00 Z" fill="#7d7d85"/>
 <text x="836" y="357" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#6e6e78" font-weight="400" text-anchor="end" style="font-variant-numeric:tabular-nums">0.8%</text>
 </svg>
