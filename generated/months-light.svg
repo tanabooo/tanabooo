@@ -5,29 +5,31 @@
 <text x="44" y="66" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#6e6e78" font-weight="400">the same six months, totalled</text>
 <rect x="86" y="196.00" width="750" height="1" fill="#e4e4e8"/>
 <text x="76" y="199.5" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9" fill="#6e6e78" font-weight="400" text-anchor="end" style="font-variant-numeric:tabular-nums">0</text>
-<rect x="86" y="161.33" width="750" height="1" fill="#e4e4e8"/>
-<text x="76" y="164.83333333333334" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9" fill="#6e6e78" font-weight="400" text-anchor="end" style="font-variant-numeric:tabular-nums">200</text>
-<rect x="86" y="126.67" width="750" height="1" fill="#e4e4e8"/>
-<text x="76" y="130.16666666666669" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9" fill="#6e6e78" font-weight="400" text-anchor="end" style="font-variant-numeric:tabular-nums">400</text>
+<rect x="86" y="170.00" width="750" height="1" fill="#e4e4e8"/>
+<text x="76" y="173.5" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9" fill="#6e6e78" font-weight="400" text-anchor="end" style="font-variant-numeric:tabular-nums">200</text>
+<rect x="86" y="144.00" width="750" height="1" fill="#e4e4e8"/>
+<text x="76" y="147.5" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9" fill="#6e6e78" font-weight="400" text-anchor="end" style="font-variant-numeric:tabular-nums">400</text>
+<rect x="86" y="118.00" width="750" height="1" fill="#e4e4e8"/>
+<text x="76" y="121.5" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9" fill="#6e6e78" font-weight="400" text-anchor="end" style="font-variant-numeric:tabular-nums">600</text>
 <rect x="86" y="92.00" width="750" height="1" fill="#e4e4e8"/>
-<text x="76" y="95.5" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9" fill="#6e6e78" font-weight="400" text-anchor="end" style="font-variant-numeric:tabular-nums">600</text>
-<path d="M136.50 196.00 V171.75 A4.00 4.00 0 0 1 140.50 167.75 H156.50 A4.00 4.00 0 0 1 160.50 171.75 V196.00 Z" fill="#7d7d85"/>
-<text x="148.5" y="212" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9.5" fill="#6e6e78" font-weight="400" text-anchor="middle">Feb</text>
+<text x="76" y="95.5" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9" fill="#6e6e78" font-weight="400" text-anchor="end" style="font-variant-numeric:tabular-nums">800</text>
+<path d="M136.50 196.00 V190.51 A4.00 4.00 0 0 1 140.50 186.51 H156.50 A4.00 4.00 0 0 1 160.50 190.51 V196.00 Z" fill="#7d7d85"/>
+<text x="148.5" y="212" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9.5" fill="#6e6e78" font-weight="400" text-anchor="middle">Mar</text>
 <text x="148.5" y="224" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="8.5" fill="#6e6e78" font-weight="400" text-anchor="middle">2026</text>
-<path d="M261.50 196.00 V187.35 A4.00 4.00 0 0 1 265.50 183.35 H281.50 A4.00 4.00 0 0 1 285.50 187.35 V196.00 Z" fill="#7d7d85"/>
-<text x="273.5" y="212" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9.5" fill="#6e6e78" font-weight="400" text-anchor="middle">Mar</text>
+<path d="M261.50 196.00 V190.90 A4.00 4.00 0 0 1 265.50 186.90 H281.50 A4.00 4.00 0 0 1 285.50 190.90 V196.00 Z" fill="#7d7d85"/>
+<text x="273.5" y="212" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9.5" fill="#6e6e78" font-weight="400" text-anchor="middle">Apr</text>
 <text x="273.5" y="224" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="8.5" fill="#6e6e78" font-weight="400" text-anchor="middle">2026</text>
-<path d="M386.50 196.00 V187.87 A4.00 4.00 0 0 1 390.50 183.87 H406.50 A4.00 4.00 0 0 1 410.50 187.87 V196.00 Z" fill="#7d7d85"/>
-<text x="398.5" y="212" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9.5" fill="#6e6e78" font-weight="400" text-anchor="middle">Apr</text>
+<path d="M386.50 196.00 V152.42 A4.00 4.00 0 0 1 390.50 148.42 H406.50 A4.00 4.00 0 0 1 410.50 152.42 V196.00 Z" fill="#7d7d85"/>
+<text x="398.5" y="212" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9.5" fill="#6e6e78" font-weight="400" text-anchor="middle">May</text>
 <text x="398.5" y="224" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="8.5" fill="#6e6e78" font-weight="400" text-anchor="middle">2026</text>
-<path d="M511.50 196.00 V136.56 A4.00 4.00 0 0 1 515.50 132.56 H531.50 A4.00 4.00 0 0 1 535.50 136.56 V196.00 Z" fill="#7d7d85"/>
-<text x="523.5" y="212" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9.5" fill="#6e6e78" font-weight="400" text-anchor="middle">May</text>
+<path d="M511.50 196.00 V174.52 A4.00 4.00 0 0 1 515.50 170.52 H531.50 A4.00 4.00 0 0 1 535.50 174.52 V196.00 Z" fill="#7d7d85"/>
+<text x="523.5" y="212" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9.5" fill="#6e6e78" font-weight="400" text-anchor="middle">Jun</text>
 <text x="523.5" y="224" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="8.5" fill="#6e6e78" font-weight="400" text-anchor="middle">2026</text>
-<path d="M636.50 196.00 V166.03 A4.00 4.00 0 0 1 640.50 162.03 H656.50 A4.00 4.00 0 0 1 660.50 166.03 V196.00 Z" fill="#7d7d85"/>
-<text x="648.5" y="212" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9.5" fill="#6e6e78" font-weight="400" text-anchor="middle">Jun</text>
+<path d="M636.50 196.00 V108.87 A4.00 4.00 0 0 1 640.50 104.87 H656.50 A4.00 4.00 0 0 1 660.50 108.87 V196.00 Z" fill="#ef4a5d"/>
+<text x="648.5" y="96.87" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0f0f12" font-weight="600" text-anchor="middle">701</text>
+<text x="648.5" y="212" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9.5" fill="#6e6e78" font-weight="400" text-anchor="middle">Jul</text>
 <text x="648.5" y="224" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="8.5" fill="#6e6e78" font-weight="400" text-anchor="middle">2026</text>
-<path d="M761.50 196.00 V106.92 A4.00 4.00 0 0 1 765.50 102.92 H781.50 A4.00 4.00 0 0 1 785.50 106.92 V196.00 Z" fill="#ef4a5d"/>
-<text x="773.5" y="94.92" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0f0f12" font-weight="600" text-anchor="middle">537</text>
-<text x="773.5" y="212" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9.5" fill="#6e6e78" font-weight="400" text-anchor="middle">Jul</text>
+<rect x="761.50" y="195.35" width="24.00" height="0.65" fill="#7d7d85"/>
+<text x="773.5" y="212" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9.5" fill="#6e6e78" font-weight="400" text-anchor="middle">Aug</text>
 <text x="773.5" y="224" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="8.5" fill="#6e6e78" font-weight="400" text-anchor="middle">2026</text>
 </svg>
