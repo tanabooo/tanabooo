@@ -29,7 +29,7 @@
 <text x="648.5" y="96.87" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#0f0f12" font-weight="600" text-anchor="middle">701</text>
 <text x="648.5" y="212" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9.5" fill="#6e6e78" font-weight="400" text-anchor="middle">Jul</text>
 <text x="648.5" y="224" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="8.5" fill="#6e6e78" font-weight="400" text-anchor="middle">2026</text>
-<path d="M761.50 196.00 V156.58 A4.00 4.00 0 0 1 765.50 152.58 H781.50 A4.00 4.00 0 0 1 785.50 156.58 V196.00 Z" fill="#7d7d85"/>
+<path d="M761.50 196.00 V132.53 A4.00 4.00 0 0 1 765.50 128.53 H781.50 A4.00 4.00 0 0 1 785.50 132.53 V196.00 Z" fill="#7d7d85"/>
 <text x="773.5" y="212" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9.5" fill="#6e6e78" font-weight="400" text-anchor="middle">Aug</text>
 <text x="773.5" y="224" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="8.5" fill="#6e6e78" font-weight="400" text-anchor="middle">2026</text>
 </svg>
